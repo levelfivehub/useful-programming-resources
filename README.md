@@ -2,6 +2,7 @@
 
 A place where I put my favourite links in relation to programming practices.
 
++ PHP Standards Recommendations: http://www.php-fig.org/psr/
 + Object Calisthenics: http://williamdurand.fr/2013/06/03/object-calisthenics/
 + Ballmer Peak: https://xkcd.com/323/
 + Onion Architecture: http://jeffreypalermo.com/blog/the-onion-architecture-part-1/
